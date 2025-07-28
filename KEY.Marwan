@@ -2,12 +2,12 @@
 <!--Fetch etched from module Yurikey Manager-->
 <AndroidAttestation>
 <NumberOfKeyboxes>1</NumberOfKeyboxes>
-<Keybox DeviceID="Free keybox. Join my group: t.me/Online_rooting1">
+<Keybox DeviceID="Free keybox. Join my group: t.me/yuriiroot">
 <!--https://t.me/yuriiroot-->
 <Key algorithm="ecdsa">
 <PrivateKey format="pem">
 -----BEGIN EC PRIVATE KEY-----
-<!--https://t.me/Online_rooting1>
+<!--https://t.me/yuriiroot-->
 MHcCAQEEIOWz53iut+YXhg54Fl0v7iqfxAE6MXmJwgTQeLNZZxHYoAoGCCqGSM49
 AwEHoUQDQgAE6hPsmkdmorSYe2LMdOq4bNjOiZ0qFwBoCT2Rh4WBnpR8mYQtkBBg
 18fE79FWvs/zhcnsv9U368axGPQ+uDLdYg==
@@ -33,7 +33,7 @@ qPM6Woe0xdiIWM0GYAuHrOMU2DoTEkM=
 </Certificate>
 <Certificate format="pem">
 -----BEGIN CERTIFICATE-----
-<!--https://t.me/Online_rooting1>
+<!--https://t.me/yuriiroot-->
 MIIDlDCCAXygAwIBAgIRAMCXLkUylCjvF1pLnISyKRIwDQYJKoZIhvcNAQELBQAw
 GzEZMBcGA1UEBRMQZjkyMDA5ZTg1M2I2YjA0NTAeFw0yMjA5MTcxNzIwMDBaFw0z
 MjA5MTQxNzIwMDBaMDkxDDAKBgNVBAwMA1RFRTEpMCcGA1UEBRMgNTEyM2NkZTUw
@@ -58,7 +58,7 @@ oa92zcFLhOhrHMBcHzxhdraw7MeO7ROKDGyyV41Oj5SGzybfh7c5MdMYLcxz7asz
 </Certificate>
 <Certificate format="pem">
 -----BEGIN CERTIFICATE-----
-<!--https://t.me/Online_rooting1>
+<!--https://t.me/yuriiroot-->
 MIIFHDCCAwSgAwIBAgIJAPHBcqaZ6vUdMA0GCSqGSIb3DQEBCwUAMBsxGTAXBgNV
 BAUTEGY5MjAwOWU4NTNiNmIwNDUwHhcNMjIwMzIwMTgwNzQ4WhcNNDIwMzE1MTgw
 NzQ4WjAbMRkwFwYDVQQFExBmOTIwMDllODUzYjZiMDQ1MIICIjANBgkqhkiG9w0B
@@ -88,14 +88,14 @@ zbH4yswbt02tKtKEFhx+v+OTge/06V+jGsqTWLsfrOCNLuA8H++z+pUENmpqnnHo
 vaI47gC+TNpkgYGkkBT6B/m/U01BuOBBTzhIlMEZq9qkDWuM2cA5kW5V3FJUcfHn
 w1IdYIg2Wxg7yHcQZemFQg==
 -----END CERTIFICATE-----
-<!--https://t.me/Online_rooting1>
+<!--https://t.me/yuriiroot-->
 </Certificate>
 </CertificateChain>
 </Key>
 <Key algorithm="rsa">
 <PrivateKey format="pem">
 -----BEGIN RSA PRIVATE KEY-----
-<!--https://t.me/Online_rooting1>
+<!--https://t.me/yuriiroot-->
 MIIG4gIBAAKCAYEA11TBj9E2pHkxDI+U77AJqWv+NAAlW8Rt6TtEkFiBzMTIYSD8
 d9bAoDLTpao4L5IGYgPQfV1VNWGYxl+Hgd67ECb8HuSFilQPzz/S1N/mAMnKkKia
 MSEeoFPUgf46i1TLyW6oBpL2XcT5TfBzrBau8WWFD2Yh8Z9jLP3NoCcHqV1WWlJz
@@ -134,7 +134,7 @@ mKijzctDyfby7eP7c0lnyIyG3y9TUFE8kHHz8MmPm/CEy5x0Acbn7zm3XfIh//6U
 2T5rkaVWVZkBtcYv6vmD8eYZwRiO7q0pJ0Lr754f9PxInS6yjVrfHGefH7TngF4r
 d7dib3DXBxp/PhjPDBe05uJrdV6ukBmNJFKNj5BFMUJK1HEuTIo=
 -----END RSA PRIVATE KEY-----
-<!--https://t.me/Online_rooting1>
+<!--https://t.me/yuriiroot-->
 </PrivateKey>
 <CertificateChain>
 <NumberOfCertificates>3</NumberOfCertificates>
@@ -172,7 +172,7 @@ YRGhOQ==
 </Certificate>
 <Certificate format="pem">
 -----BEGIN CERTIFICATE-----
-<!--https://t.me/Online_rooting1>
+<!--https://t.me/yuriiroot-->
 MIIFQTCCAymgAwIBAgIQJ81Hy78GFx18K2krS5pZVjANBgkqhkiG9w0BAQsFADAb
 MRkwFwYDVQQFExBmOTIwMDllODUzYjZiMDQ1MB4XDTIyMDkxNzE3MTk0M1oXDTMy
 MDkxNDE3MTk0M1owOTEMMAoGA1UEDAwDVEVFMSkwJwYDVQQFEyA1MTIzY2RlNTAw
@@ -206,7 +206,7 @@ b7GLn0EZGcvTp0iQnmwzH7x/EmVO/+ufS6pfZqlCPR91BKfPJJX22mBNLcVGqfft
 </Certificate>
 <Certificate format="pem">
 -----BEGIN CERTIFICATE-----
-<!--https://t.me/Online_rooting1>
+<!--https://t.me/yuriiroot-->
 MIIFHDCCAwSgAwIBAgIJAPHBcqaZ6vUdMA0GCSqGSIb3DQEBCwUAMBsxGTAXBgNV
 BAUTEGY5MjAwOWU4NTNiNmIwNDUwHhcNMjIwMzIwMTgwNzQ4WhcNNDIwMzE1MTgw
 NzQ4WjAbMRkwFwYDVQQFExBmOTIwMDllODUzYjZiMDQ1MIICIjANBgkqhkiG9w0B
@@ -241,4 +241,4 @@ w1IdYIg2Wxg7yHcQZemFQg==
 </Key>
 </Keybox>
 </AndroidAttestation>
-<!--Thank you very much. Join my group: https://t.me/Online_rooting1>
+<!--Thank you very much. Join my group: https://t.me/yuriiroot-->
